@@ -2,10 +2,13 @@
 .DS_Store
 
 # Node / NPM
-node_modules
+node_modules/
+
+# Bower
+bower_components/
+
+# Distribution files
+dist/
 
 # Jekyll
-_site
-
-# Compiled
-build
+_site/
